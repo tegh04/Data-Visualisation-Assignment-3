@@ -5,4 +5,4 @@ Team Members:
 - Yiqian Yang
 - James Smith
 
-Conducted an exploratory data analysis on Australian trade data using Tableau and Python for the data preparation. 
+Investigated data on Australian exports/imports using Tableau for data visualisation and Python for data preparation. 
